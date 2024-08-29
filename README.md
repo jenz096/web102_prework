@@ -24,7 +24,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/Xqpgs6a' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+https://imgur.com/a/Xqpgs6a 
 
 GIF created with ...  
 [Kap](https://getkap.co/) for macOS
