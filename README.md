@@ -23,8 +23,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+https://imgur.com/a/dTVXhEU
 
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW80bDA0cm9lcWVlZTJmbDJwdDNsaGt0a2hwOWs0anVwcnY3ZjdkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rBFZG0gtW8g1Hdud14/giphy-downsized-large.gif 
 
 GIF created with ...  
 [Kap](https://getkap.co/) for macOS
