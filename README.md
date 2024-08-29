@@ -32,8 +32,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-Had a few hiccups when following the directions
+Please open the gif in a separate window in order to view it on a larger scale.
 
 ## License
 
