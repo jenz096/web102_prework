@@ -33,6 +33,7 @@ GIF created with ...
 ## Notes
 
 Please open the gif in a separate window in order to view it on a larger scale.
+Also, please use this gif instead of the url on the upload to codepath's prework for grading.
 
 ## License
 
