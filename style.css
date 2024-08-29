@@ -13,14 +13,24 @@ body {
     display: flex;
     background-color: lightblue;
     padding: 1%;
+    justify-content: space-between;
     align-items: center;
     margin-left: -10px;
     margin-right: -10px;
     margin-top: -10px;
 }
 
+#search-bar {
+    display: flex;
+    align-items: center;
+}
+
 .stats-container {
     display: flex;
+    background-color: lightblue;
+    align-items: stretch;
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
